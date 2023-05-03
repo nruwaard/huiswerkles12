@@ -1,0 +1,64 @@
+#header {
+    background-color: #d415ff;
+    width: 100%;
+    height: 100px;
+    }
+#footer {
+    background-color: #f72b9e;
+    width: 100%;
+    height: 100px;
+    }
+
+table {
+    border: 3px solid;
+}
+
+#foto1 { 
+    background-color: pink;
+}    
+#Bloemen { 
+    background-color: red;
+}
+#foto2 {
+    background-color: aquamarine;
+}
+#Eten {
+    background-color: blue;
+}
+#foto3 {
+    background-color: green
+}
+#Vakantie {
+    background-color: gold;
+}
+#foto4 {
+    background-color: purple;
+}
+#Watermeloen {
+    background-color: palegreen;
+}
+#foto5 { 
+   background-color: brown; 
+}
+#Muggen {
+    background-color: chocolate;
+}
+#foto6 {
+    background-color: darkgray;
+}
+#Picknicken {
+    background-color: fuchsia;
+}
+#foto7 { 
+    background-color: indigo;
+}
+#Ijsjes {
+    background-color: peru;
+}
+#foto8 {
+    background-color: lightblue;
+}
+#Bier {
+    background-color: darkorange;
+}
+
